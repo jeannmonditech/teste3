@@ -1,0 +1,13 @@
+/* Coloque aqui seu codigo CSS */
+ #dailyChart {
+ 	width: 200px !important; 
+ 	height: 200px !important;
+ }
+.panel-azul>.panel-heading {
+	background-color:#269abc !important;
+	border-top-color: rgb(188, 232, 241);
+    border-right-color: rgb(188, 232, 241);
+    border-bottom-color: rgb(188, 232, 241);
+    border-left-color: rgb(188, 232, 241);
+	color: white;
+}

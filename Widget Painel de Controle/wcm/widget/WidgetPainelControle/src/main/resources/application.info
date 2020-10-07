@@ -1,0 +1,15 @@
+application.type=widget
+application.code=WidgetPainelControle
+application.title=Widget Painel de Controle
+application.description=Widget Painel de Controle
+application.category=Monditech
+application.renderer=freemarker
+developer.code=heloisa.dahlke
+developer.name=Heloisa Dahlke
+developer.url=http://www.monditech.com.br
+application.uiwidget=true
+application.mobileapp=false
+view.file=WidgetPaineldeControle.html
+edit.file=edit.ftl
+application.resource.js.1=/resources/js/WidgetPaineldeControle.js?v=5
+application.resource.css.2=/resources/css/WidgetPaineldeControle.css?V=3
